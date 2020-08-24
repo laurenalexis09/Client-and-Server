@@ -1,0 +1,6 @@
+Connection information: 
+Connected IP address: /10.4.10.12 |  Local IP address: 10.1.152.152
+Connected port: 80 | Local port: 55210
+
+Socket information: 
+Socket[addr=/10.4.10.12,port=80,localport=55210]

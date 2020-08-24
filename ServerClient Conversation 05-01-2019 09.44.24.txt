@@ -1,0 +1,28 @@
+Connection information: 
+Connected IP address: /127.0.0.1 | Local IP address: 192.168.56.1
+Connected port: 52480 | Local port: 1503
+
+Socket information:
+Socket[addr=/127.0.0.1,port=52480,localport=1503]
+
+Conversation: 
+05-01-2019 09.44.40
+Client said: Hello server
+Server said: Hello client
+
+
+05-01-2019 09.44.48
+Client said: How are you?
+Server said: Good how are you?
+
+
+05-01-2019 09.44.54
+Client said: Great thank you
+Server said: [:
+
+
+05-01-2019 09.45.05
+Client said: [:
+Server said: &
+
+
